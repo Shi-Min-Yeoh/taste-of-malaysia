@@ -1,0 +1,8 @@
+{
+    "icons": [{
+      "src": "https://favi.deno.dev/😋.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
